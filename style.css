@@ -128,7 +128,7 @@ a{
     .toggledNav .nav-list{
         display: flex;
         align-items: center;
-        padding-left: 20px;
+        padding-left: 45px;
     }
     .toggledNav .navbar{
         margin-top: 0;
